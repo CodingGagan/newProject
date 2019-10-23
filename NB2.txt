@@ -1,1 +1,6 @@
 New branch 2nd file ISt
+<<<<<<< HEAD
+=======
+
+Line write by Development Area
+>>>>>>> 6d57c163ca3c57716ab50477c10b7a36e4d49782

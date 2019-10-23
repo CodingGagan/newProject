@@ -1,1 +1,8 @@
 new branch Ist
+<<<<<<< HEAD
+=======
+
+line write by Developemnt Area
+
+this line is add by development areas through Github
+>>>>>>> 6d57c163ca3c57716ab50477c10b7a36e4d49782
